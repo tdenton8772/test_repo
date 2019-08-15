@@ -1,0 +1,9 @@
+[submodule "ar-2019-08-15-01"]
+	path = ar-2019-08-15_01
+	url = https://github.com/tdenton8772/report-template.git
+[submodule "ar-2019-08-15-02"]
+	path = ar-2019-08-15_02
+	url = https://github.com/tdenton8772/report-template.git
+[submodule "ar-2019-08-15-03"]
+	path = ar-2019-08-15_03
+	url = https://github.com/tdenton8772/report-template.git
